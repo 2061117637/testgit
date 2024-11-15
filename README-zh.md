@@ -145,7 +145,7 @@ git clone https://huggingface.co/jdh-algo/JoyHallo-v1 pretrained_models/joyhallo
 - 音频为 `wav`格式；
 - 中文、英语或者混合，音频尽量清晰，背景音乐适合。
 
-> [!IMPORTANT]
+> [!]
 > 这里的要求**同时针对训练过程和推理过程**。
 
 ## 🚀 推理
